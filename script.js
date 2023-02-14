@@ -1,6 +1,5 @@
 
 let compNumber = Math.floor(Math.random() * (100 - 1 + 1)) + 1
-console.log(compNumber)
 let input = document.querySelector('input')
 let para = document.querySelector('p')
 
